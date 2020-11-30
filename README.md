@@ -141,7 +141,7 @@ df_asia %>%
                                               n_max = 10))
 ```
 
-
+<img src="01-img/01.png"/>
 
 You can find more examples of use in the [vignette][vignette_rpubs] or in the [Bookdown][bookdown_url].
 
