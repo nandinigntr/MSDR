@@ -1,11 +1,27 @@
-Package: MSDR
+Package: msdr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Mastering Software Development in R 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Nandini Guntur
+Maintainer: Nandini Guntur <nandinigntr4@gmail.com>
+Description: More about what it does (maybe more than one line) Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
 Encoding: UTF-8
+Imports: dplyr,
+       magrittr,
+       readr,
+       ggplot2,
+       leaflet,
+       lubridate,
+       stringr,
+       kableExtra,
+       rlang,
+       scales,
+       prettydoc
 LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
