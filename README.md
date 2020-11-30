@@ -15,7 +15,7 @@ You can use this package installing it by the use of [`devtools`][url_devtools] 
 
 ```
 # Downloading the package
-devtools::install_github("https://github.com/nandinigntr/MSDR")
+devtools::install_github("nandinigntr/MSDR")
 
 # Loading the library
 library(msdr)
@@ -141,7 +141,7 @@ df_asia %>%
                                               n_max = 10))
 ```
 
-<img src="01-img/01.png"/>
+
 
 You can find more examples of use in the [vignette][vignette_rpubs] or in the [Bookdown][bookdown_url].
 
