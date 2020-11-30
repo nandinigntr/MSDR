@@ -15,7 +15,7 @@ You can use this package installing it by the use of [`devtools`][url_devtools] 
 
 ```
 # Downloading the package
-devtools::install_github("AndersonUyekita/JHU_MSDR_Capstone")
+devtools::install_github("https://github.com/nandinigntr/MSDR")
 
 # Loading the library
 library(msdr)
@@ -27,13 +27,7 @@ library(msdr)
 
 I have disclosed the principal Vignette in the RPubs.
 
-#* <a href=""" target="_blank">MSDR Vignette</a>
-
-#### Bookdown
-
-The Bookdown is a compendium of all functions of this package.
-
-#* <a href="" target="_blank">MSDR Capstone Bookdown</a>
+* <a href="https://rpubs.com/nandiniguntur/698015 target="_blank">MSDR Vignette</a>
 
 ********************************************************************************
 
