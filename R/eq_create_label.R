@@ -32,3 +32,4 @@ eq_create_label <- function(df_create_label = rlang::.data) {
         "<b>Magnitude: </b>",df_create_label$EQ_PRIMARY,"<br>",
         "<b>Total deaths: </b>",df_create_label$TOTAL_DEATHS, sep ="")
 }
+
