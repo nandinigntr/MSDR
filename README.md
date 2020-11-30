@@ -15,7 +15,7 @@ You can use this package installing it by the use of [`devtools`][url_devtools] 
 
 ```
 # Downloading the package
-devtools::install_github("https://github.com/nandinigntr/MSDR")
+devtools::install_github("nandinigntr/MSDR")
 
 # Loading the library
 library(msdr)
